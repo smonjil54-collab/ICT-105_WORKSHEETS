@@ -1,4 +1,4 @@
-# Variable ict poul
+# Variable ict pou
 a = 15
 b = 12
 
