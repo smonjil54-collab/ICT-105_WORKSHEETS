@@ -1,4 +1,4 @@
-# Variable ict 105
+# Variable ict
 a = 15
 b = 12
 
