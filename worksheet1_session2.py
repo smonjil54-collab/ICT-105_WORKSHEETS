@@ -1,4 +1,4 @@
-# Variable ict (hellow)
+# Variable ict 
 a = 15
 b = 12
 
