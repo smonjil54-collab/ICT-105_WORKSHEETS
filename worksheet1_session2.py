@@ -12,3 +12,4 @@ print("Type of b:", type(b))
 # Step 3: Addition
 result = a + b
 print("Addition:", a, "+", b, "=", result)
+print(result)
