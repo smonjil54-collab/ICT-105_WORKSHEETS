@@ -1,4 +1,4 @@
-# ICT105 - Worksheet 4, Session 7 {mon}
+# ICT105 - Worksheet 4, Session 7
 def course_enrollment(student_id, first_name, last_name, course_id, course_name, action="Echo"):
     print(f"{action}: Student {student_id} - {first_name} {last_name} has been registered for {course_id}: {course_name}")
 
