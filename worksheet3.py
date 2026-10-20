@@ -174,3 +174,5 @@ try:
         print(entry)
 except KeyboardInterrupt:
     print(f"\nTotal lines entered: {len(lines)}")
+    print(fict105
+          )
