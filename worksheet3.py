@@ -1,4 +1,4 @@
-# ICT105 - Worksheet 3, Session 5" (antony)
+# ICT105 - Worksheet 3, Session 5"
 print("=== Student Course Enrollments ===")
 course_enrollments = {
     1001: ["CS101", "MATH101"],
