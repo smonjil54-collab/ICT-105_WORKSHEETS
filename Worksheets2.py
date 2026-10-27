@@ -1,5 +1,5 @@
 
-# ICT105 - Worksheet 2, Session 3
+# ICT105 - Worksheet 2, Session 3 
 courses = [
     "Physics I",
     "Introduction to Programming",
