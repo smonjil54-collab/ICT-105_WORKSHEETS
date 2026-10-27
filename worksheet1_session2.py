@@ -1,4 +1,4 @@
-# Variable ict tonnyy
+# Variable ict 
 a = 15
 b = 12
 
