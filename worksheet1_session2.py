@@ -1,4 +1,4 @@
-# Variable ict
+# Variable ict class
 a = 15
 b = 12
 
