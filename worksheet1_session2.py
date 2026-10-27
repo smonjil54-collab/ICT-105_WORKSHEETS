@@ -1,4 +1,4 @@
-# Variable ict class
+# Variable ict tonny
 a = 15
 b = 12
 
