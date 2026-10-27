@@ -1,4 +1,4 @@
-# Variable ict 
+# Variable ictt
 a = 15
 b = 12
 
