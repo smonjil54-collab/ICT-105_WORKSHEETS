@@ -1,5 +1,5 @@
 # Variable ictt
-a = 15
+a = 30
 b = 12
 
 print("Value of a:", a)

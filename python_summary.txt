@@ -1,0 +1,4 @@
+Python is a high-level, readable programming language.
+I have learned about variables, loops and functions.
+Error handling uses try-except blocks.
+Debugging can use print statements, logging and pdb.
